@@ -1,1 +1,0 @@
-C:\Users\Herc\Desktop\Individual\build\classes>java -cp C:\Users\Herc\Desktop\mysql-connector-java-5.1.46-bin.jar;. project.Project_Main
